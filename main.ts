@@ -16,11 +16,11 @@ const TEXT = [
   'and rests on the floor.',
   'The kettle has gone quiet.',
   'One bicycle passes, then none.',
-  'Your shoulders set their weight down.',
+  'The house sets its weight down.',
   'The hall door stands open,',
-  'cool air moving through.',
-  'The next thing is only a step,',
-  'and the light will still be here.',
+  'cool air drifting through.',
+  'The next step is a small one,',
+  'and the light is still here.',
 ].join('\n');
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
